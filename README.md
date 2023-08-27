@@ -1,2 +1,1 @@
-# I-found-discord-bot-tokens
-discord bot tokens I found myself
+# Detaylı bilgi: https://discord.gg/aNTDd5QsMn
